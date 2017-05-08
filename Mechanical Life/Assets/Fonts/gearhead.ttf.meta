@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 75641bd2b4541f348aa686fbc5f8c5ee
+timeCreated: 1493577105
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gearhead
+  fontNames:
+  - Gearhead
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

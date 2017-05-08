@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9443b45ff9b39664cb47a72c7ebf76e6
+timeCreated: 1493178603
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mechanical
+  fontNames:
+  - Mechanical
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
